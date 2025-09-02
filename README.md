@@ -1,7 +1,7 @@
 ## Ex. No. 01 - Image-Handling-and-Pixel-Transformations-Using-OpenCV 
 ## Name : VINNUSH KUMAR LS 
-## Reg No : 212223230041
-## Date : 28/08/25
+## Reg No : 212223230244
+## Date : 02/09/25
 
 
 ## AIM:
